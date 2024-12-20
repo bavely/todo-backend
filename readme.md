@@ -77,7 +77,7 @@ Retrieve all tasks.
   {
     "id": 1,
     "title": "Sample Task",
-    "color": "red",
+    "color": "#ff0000",
     "completed": false,
     "createdAt": "2023-01-01T00:00:00.000Z",
     "updatedAt": "2023-01-01T00:00:00.000Z"
@@ -92,7 +92,7 @@ Create a new task.
 ```json
 {
   "title": "New Task",
-  "color": "blue"
+  "color": "#0000ff"
 }
 ```
 
@@ -101,7 +101,7 @@ Create a new task.
 {
   "id": 2,
   "title": "New Task",
-  "color": "blue",
+  "color": "#0000ff",
   "completed": false,
   "createdAt": "2023-01-01T00:00:00.000Z",
   "updatedAt": "2023-01-01T00:00:00.000Z"
@@ -115,7 +115,7 @@ Update a task by ID.
 ```json
 {
   "title": "Updated Task",
-  "color": "green",
+  "color": "#00ff00",
   "completed": true
 }
 ```
@@ -125,7 +125,7 @@ Update a task by ID.
 {
   "id": 2,
   "title": "Updated Task",
-  "color": "green",
+  "color": "#00ff00",
   "completed": true,
   "createdAt": "2023-01-01T00:00:00.000Z",
   "updatedAt": "2023-01-02T00:00:00.000Z"
