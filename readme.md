@@ -79,8 +79,8 @@ Retrieve all tasks.
     "title": "Sample Task",
     "color": "#ff0000",
     "completed": false,
-    "createdAt": "2023-01-01T00:00:00.000Z",
-    "updatedAt": "2023-01-01T00:00:00.000Z"
+    "createdAt": "2024-12-20T17:56:18.681Z",
+    "updatedAt": "2024-12-20T17:56:18.681Z"
   }
 ]
 ```
@@ -103,8 +103,8 @@ Create a new task.
   "title": "New Task",
   "color": "#0000ff",
   "completed": false,
-  "createdAt": "2023-01-01T00:00:00.000Z",
-  "updatedAt": "2023-01-01T00:00:00.000Z"
+    "createdAt": "2024-12-20T17:56:18.681Z",
+    "updatedAt": "2024-12-20T17:56:18.681Z"
 }
 ```
 
@@ -127,8 +127,8 @@ Update a task by ID.
   "title": "Updated Task",
   "color": "#00ff00",
   "completed": true,
-  "createdAt": "2023-01-01T00:00:00.000Z",
-  "updatedAt": "2023-01-02T00:00:00.000Z"
+    "createdAt": "2024-12-20T17:56:18.681Z",
+    "updatedAt": "2024-12-20T17:56:18.681Z"
 }
 ```
 
